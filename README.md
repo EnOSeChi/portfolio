@@ -13,3 +13,9 @@ Repo: https://bitbucket.org/slawekhus/git-final-project/src/master/
 ### Getting Started .NET Core Microservices RabbitMQ
 
 Course: https://www.udemy.com/course/getting-started-net-core-microservices-rabbitmq/
+
+## Books
+
+- T-SQL Fundamentals Third Edition
+- PHP Objects, Patterns, and Practice
+- Thinking in C++
