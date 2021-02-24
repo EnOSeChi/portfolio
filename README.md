@@ -4,16 +4,12 @@ My personal portfolio.
 
 ## Courses
 
-### Coursera Version Control with GIT
+### Version Control with GIT
 
 Course: https://www.coursera.org/learn/version-control-with-git
 
 Repo: https://bitbucket.org/slawekhus/git-final-project/src/master/
 
-## Projects
+### Getting Started .NET Core Microservices RabbitMQ
 
-### More Coffee
-
-Blog about programming.
-
-Url: https://morecoffee.000webhostapp.com/
+Course: https://www.udemy.com/course/getting-started-net-core-microservices-rabbitmq/
