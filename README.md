@@ -14,7 +14,7 @@ Repo: https://bitbucket.org/slawekhus/git-final-project/src/master/
 
 Course: https://www.udemy.com/course/getting-started-net-core-microservices-rabbitmq/
 
-## Books
+## Readed books
 
 - T-SQL Fundamentals Third Edition
 - PHP Objects, Patterns, and Practice
