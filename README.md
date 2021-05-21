@@ -14,6 +14,10 @@ Repo: https://bitbucket.org/slawekhus/git-final-project/src/master/
 
 Course: https://www.udemy.com/course/getting-started-net-core-microservices-rabbitmq/
 
+### DDD in practice
+
+Repo: https://github.com/EnOSeChi/DDDInPractice
+
 ## Readed books
 
 - T-SQL Fundamentals Third Edition
